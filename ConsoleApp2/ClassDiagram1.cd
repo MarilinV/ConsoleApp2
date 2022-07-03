@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp2.Cocina">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAQAAEAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cocina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp2.CuatroQuesosBuilder">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CuatroQuesosBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp2.HawaianaBuilder">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HawaianaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp2.Pizza">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAABAAAAAAAAgAAAAAAAABAAAIAAAAAA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp2.PizzaBuilder">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIAAAAAAACAAAQQAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>PizzaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
